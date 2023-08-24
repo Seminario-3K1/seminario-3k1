@@ -22,4 +22,4 @@ Este proyecto tiene como objetivo crear una plataforma en línea donde los entus
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/GeraReinoso/seminario-3k1.git
+   git clone https://github.com/Seminario-3K1/seminario-3k1
