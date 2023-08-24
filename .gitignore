@@ -1,0 +1,55 @@
+# Maven build output
+/target/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+package-lock.json
+
+# Compiled Java classes
+*.class
+
+# Maven and Gradle specific files
+/.mvn/
+/gradle/
+build.gradle
+*.jar
+*.war
+*.ear
+*.log
+
+# Spring Boot specific files
+spring-boot-starter.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA specific files
+.idea
+*.iml
+
+# TypeScript and JavaScript build files
+*.js
+*.js.map
+
+# TypeScript and Next.js build files
+*.tsbuildinfo
+/*.tsbuildinfo
+
+# Next.js cache
+.next/cache
+
+# Temporary and generated files
+*.tmp
+*.bak
+*.swp
